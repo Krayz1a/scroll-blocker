@@ -14,4 +14,4 @@ Welcome to the first beta of ScrollBlocker! This build includes:
 3. Open each supported feed (Reels, TikTok, Shorts) and verify the white overlay appears and disappears as expected.  
 4. Report any issues or edge cases (e.g. specific device OEM quirks) via the GitHub Issues page.
 
-Thank you for helping us test out the beta!
+Thank you for helping me test out the beta!
