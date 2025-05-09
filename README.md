@@ -9,9 +9,10 @@ Welcome to the first beta of ScrollBlocker! This build includes:
 - **Touch‑through overlay**: Allows pull‑down notifications and system gestures while visually blocking the feed.
 
 **How to test**  
-1. Download the APK asset below and install on your device.  
-2. Enable **ScrollBlockService** under **Settings → Accessibility**.  
-3. Open each supported feed (Reels, TikTok, Shorts) and verify the white overlay appears and disappears as expected.  
-4. Report any issues or edge cases (e.g. specific device OEM quirks) via the GitHub Issues page.
+1. Download the APK asset below and install on your device.
+2. Go to **Settings -> Apps -> ScrollBlocker** and in the top left corner allow restricted permissions.
+3. Enable **ScrollBlockService** under **Settings → Accessibility**.  
+4. Open each supported feed (Reels, TikTok, Shorts) and verify the white overlay appears and disappears as expected.  
+5. Report any issues or edge cases (e.g. specific device OEM quirks) via the GitHub Issues page.
 
 Thank you for helping me test out the beta!
