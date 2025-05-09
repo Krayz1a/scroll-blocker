@@ -10,7 +10,7 @@ Welcome to the first beta of ScrollBlocker! This build includes:
 
 **How to test**  
 1. Download the APK asset below and install on your device.
-2. Go to **Settings -> Apps -> ScrollBlocker** and in the top left corner allow restricted permissions.
+2. Go to **Settings -> Apps -> ScrollBlocker** and in the top right corner allow restricted permissions.
 3. Enable **ScrollBlockService** under **Settings → Accessibility**.  
 4. Open each supported feed (Reels, TikTok, Shorts) and verify the white overlay appears and disappears as expected.  
 5. Report any issues or edge cases (e.g. specific device OEM quirks) via the GitHub Issues page.
